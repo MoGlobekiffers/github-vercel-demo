@@ -1,0 +1,66 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: linear-gradient(135deg, #2c3e50, #3498db);
+  color: #fff;
+  margin: 0;
+}
+
+header {
+  padding: 40px 20px;
+  background-color: rgba(0,0,0,0.2);
+}
+
+main {
+  padding: 40px 20px;
+}
+
+/* Section contenu */
+.content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.content li {
+  margin: 10px 0;
+  font-size: 1.1rem;
+}
+
+/* Section Membres */
+.members {
+  margin: 40px auto;
+  padding: 20px;
+  background-color: rgba(0,0,0,0.18);
+  border-radius: 12px;
+  width: 90%;
+  max-width: 720px;
+  text-align: left;
+}
+
+.members h2 {
+  margin: 0 0 12px;
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+.members ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.members li {
+  padding: 10px 12px;
+  font-size: 1.05rem;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+.members li:last-child {
+  border-bottom: none;
+}
+
+footer {
+  padding: 20px;
+  background-color: rgba(0,0,0,0.2);
+  color: #bdc3c7;
+}

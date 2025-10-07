@@ -1,8 +1,18 @@
-# github-vercel-demo
+# 🚀 Jiraya Crew – Fork de GitHub Vercel Demo
 
-Démo pour connecter et déployer un projet GitHub automatiquement sur Vercel.
-## Étapes
-1. Créer un compte et un repository sur GitHub.
-2. Ajouter les fichiers du projet.
-3. Créer un compte Vercel et importer le repository.
-4. Profiter du déploiement automatique à chaque modification.
+Ce projet est un **fork** du dépôt original :  
+👉 [MoGlobekiffers/github-vercel-demo](https://github.com/MoGlobekiffers/github-vercel-demo)
+
+## 🔥 Ce que j’ai ajouté
+- Création d’une **page d’accueil** (`index.html`)
+- Mise en place d’une **feuille de style** (`styles.css`)
+- Ajout d’une **section Membres** (avec MoGlobekiffers et JiRaYaOG en priorité)
+- Déploiement sur **GitHub Pages**
+
+## 🌍 Démo en ligne
+👉 [https://jirayaog.github.io/github-vercel-demo/](https://jirayaog.github.io/github-vercel-demo/)
+
+## 📌 Prochaines étapes
+- Ajouter un **logo personnalisé**
+- Améliorer le design avec plus de CSS
+- Proposer une Pull Request pour enrichir le projet original

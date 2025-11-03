@@ -3,7 +3,7 @@
 Ce projet est un **fork** du dépôt original :  
 👉 [MoGlobekiffers/github-vercel-demo](https://github.com/MoGlobekiffers/github-vercel-demo)
 
-## 🔥 Ce que j’ai ajouté
+## 🔥 Ce que j’ai ajouté 1
 - Création d’une **page d’accueil** (`index.html`)
 - Mise en place d’une **feuille de style** (`styles.css`)
 - Ajout d’une **section Membres** (avec MoGlobekiffers et JiRaYaOG en priorité)
